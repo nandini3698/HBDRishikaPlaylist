@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    width: auto;
+    background: rgb(235, 174, 235);
+    background-image: url('https://images.unsplash.com/photo-1579547621309-5e57ab324182?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fHB1cnBsZXxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.columns{
+    border: 2px;
+}
+
+.first{
+    border-width: 2px;
+    border-color: res;
+}
+
+.jumbotron{
+    padding-top: 100px;
+}
